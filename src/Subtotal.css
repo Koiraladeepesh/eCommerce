@@ -21,9 +21,8 @@
 
 .subtotal button{
     background-color: #BF1729;
-    border: 1px solid;
+    border: 1px solid #771922;
     margin-top: 10px;
-    border-color: #771922;
     color: white;
     border-radius: 3px;
     width: 100%;
